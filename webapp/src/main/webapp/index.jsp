@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1>這是新的檔案喔 </h1>
 
   
 </form>
